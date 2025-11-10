@@ -1,0 +1,1 @@
+This is a new text file created in the vs code using touch command in command line
